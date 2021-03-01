@@ -16,10 +16,10 @@ Hit Submit Answer to execute the Python script and receive feedback.
 Answers:
 
 #Example, do not modify!
-`print(5 / 8)`
+print(5 / 8)
 
 #Print the sum of 7 and 10
-`print(7 + 10)`
+print(7 + 10)
 
 
 
