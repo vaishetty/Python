@@ -36,7 +36,7 @@ print(homelessness.describe())
 
 
 Parts of a DataFrame
-To better understand DataFrame objects, it's useful to know that they consist of three components, stored as attributes:
+To better understand DataFrame objects, it is useful to know that they consist of three components, stored as attributes:
 
 .values: A two-dimensional NumPy array of values.
 .columns: An index of columns: the column names.
